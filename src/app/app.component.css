@@ -1,0 +1,13 @@
+.jumbotron{
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #a5aaae;
+    border-radius: .3rem;
+}
+.img{
+    width:200px ;
+    width: 200px;
+    margin: 30px;
+    background-color: green;
+    border-radius: 10px;
+}
